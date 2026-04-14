@@ -69,5 +69,3 @@ I'm a passionate Data Scientist with hands-on experience in building ML models, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samikshyamohanty09@gmail.com)
 
 ---
-
-*"In God we trust; all others must bring data." — W. Edwards Deming*
